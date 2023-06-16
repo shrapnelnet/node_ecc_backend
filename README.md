@@ -1,5 +1,5 @@
 # shr4pnel IM
-## an instant messaging client utilising elliptic curve diffie hellman key exchange
+### an instant messaging client utilising elliptic curve diffie hellman key exchange
 
 # file structure
 ## /lib
