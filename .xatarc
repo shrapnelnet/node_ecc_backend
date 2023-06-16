@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://shr4pnel-s-workspace-vkimoc.eu-west-1.xata.sh/db/shr4pneljs",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

@@ -1,0 +1,17 @@
+#signuporin > form {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+#signuporin > form > * {
+    margin-top: 5px;
+}
+
+#messages {
+    margin-top: 10px;
+}
+
+#messages > form > div > input {
+    margin-right: 5px;
+}
